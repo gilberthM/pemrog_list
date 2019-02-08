@@ -18,21 +18,21 @@
     "albumId": 1,
     "id": 3,
     "title": "error 1",
-    "url": "https://via.placeholder.com/600/24f355",
+    "url": "telah error",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   },
   {
     "albumId": 1,
     "id": 4,
     "title": "error 2",
-    "url": "https://via.placeholder.com/600/d32776",
+    "url": "penjelasan",
     "thumbnailUrl": "https://via.placeholder.com/150/d32776"
   },
   {
     "albumId": 1,
     "id": 5,
     "title": "errror 3",
-    "url": "https://via.placeholder.com/600/f66b97",
+    "url": "erorr 3",
     "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
   },
   {
@@ -46,28 +46,28 @@
     "albumId": 1,
     "id": 7,
     "title": "matlab tidak bisa compile",
-    "url": "https://via.placeholder.com/600/b0f7cc",
+    "url": "penjelasan",
     "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
   },
   {
     "albumId": 1,
     "id": 8,
     "title": "dev cpp error",
-    "url": "https://via.placeholder.com/600/54176f",
+    "url": "testing 1",
     "thumbnailUrl": "https://via.placeholder.com/150/54176f"
   },
   {
     "albumId": 1,
     "id": 9,
     "title": "kerusakan app",
-    "url": "https://via.placeholder.com/600/51aa97",
+    "url": "testing 2",
     "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
   },
   {
     "albumId": 1,
     "id": 10,
     "title": "test 10",
-    "url": "https://via.placeholder.com/600/810b14",
+    "url": "testing 3",
     "thumbnailUrl": "https://via.placeholder.com/150/810b14"
   }
   ],
