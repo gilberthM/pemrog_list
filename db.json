@@ -1,74 +1,160 @@
 {
-  "posts": [
+  "Octave": [
    {
-    "albumId": 1,
+    "id_app": 1,
     "id": 1,
-    "title": "Untuk Pengembangan Aplikasi",
-    "url": "Testing app",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    "masalah": "Untuk Pengembangan Aplikasi 1 octave",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
   {
-    "albumId": 1,
+    "id_app": 1,
     "id": 2,
-    "title": "Tidak Bisa Compile",
-    "url": "asd",
-    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    "masalah": "Untuk Pengembangan Aplikasi 2 octave",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
   {
-    "albumId": 1,
+    "id_app": 1,
     "id": 3,
-    "title": "error 1",
-    "url": "telah error",
-    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    "masalah": "Untuk Pengembangan Aplikasi 3",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
   {
-    "albumId": 1,
+    "id_app": 1,
     "id": 4,
-    "title": "error 2",
-    "url": "penjelasan",
-    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    "masalah": "Untuk Pengembangan Aplikasi 4",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
-  {
-    "albumId": 1,
+ {
+    "id_app": 1,
     "id": 5,
-    "title": "errror 3",
-    "url": "erorr 3",
-    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    "masalah": "Untuk Pengembangan Aplikasi 5",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
   {
-    "albumId": 1,
+    "id_app": 1,
     "id": 6,
-    "title": "error 4",
-    "url": "Jaya NOOB",
-    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    "masalah": "Untuk Pengembangan Aplikasi 6",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
   {
-    "albumId": 1,
+    "id_app": 1,
     "id": 7,
-    "title": "matlab tidak bisa compile",
-    "url": "penjelasan",
-    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    "masalah": "Untuk Pengembangan Aplikasi 7",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
   {
-    "albumId": 1,
+    "id_app": 1,
     "id": 8,
-    "title": "dev cpp error",
-    "url": "testing 1",
-    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    "masalah": "Untuk Pengembangan Aplikasi 8",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
   {
-    "albumId": 1,
+    "id_app": 1,
     "id": 9,
-    "title": "kerusakan app",
-    "url": "testing 2",
-    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    "masalah": "Untuk Pengembangan Aplikasi 9",
+    "ket": "Testing app",
+    "langkah": "test 1"
   },
   {
-    "albumId": 1,
+    "id_app": 1,
     "id": 10,
-    "title": "test 10",
-    "url": "testing 3",
-    "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+    "masalah": "Untuk Pengembangan Aplikasi 10",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 1,
+    "id": 11,
+    "masalah": "Untuk Pengembangan Aplikasi 11",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  }
+  ],
+  "Netbeans": [
+   {
+    "id_app": 2,
+    "id": 1,
+    "masalah": "Untuk Pengembangan Aplikasi 1 netbeans",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 2,
+    "masalah": "Untuk Pengembangan Aplikasi 2 netbeans",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 3,
+    "masalah": "Untuk Pengembangan Aplikasi 3",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 4,
+    "masalah": "Untuk Pengembangan Aplikasi 4",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+ {
+    "id_app": 2,
+    "id": 5,
+    "masalah": "Untuk Pengembangan Aplikasi 5",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 6,
+    "masalah": "Untuk Pengembangan Aplikasi 6",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 7,
+    "masalah": "Untuk Pengembangan Aplikasi 7",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 8,
+    "masalah": "Untuk Pengembangan Aplikasi 8",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 9,
+    "masalah": "Untuk Pengembangan Aplikasi 9",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 10,
+    "masalah": "Untuk Pengembangan Aplikasi 10",
+    "ket": "Testing app",
+    "langkah": "test 1"
+  },
+  {
+    "id_app": 2,
+    "id": 11,
+    "masalah": "Untuk Pengembangan Aplikasi 11",
+    "ket": "Testing app",
+    "langkah": "test 1"
   }
   ],
   "profile": {
